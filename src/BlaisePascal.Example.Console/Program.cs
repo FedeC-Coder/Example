@@ -1,7 +1,10 @@
-﻿public class Program
+﻿using BlaisePascal.Example.Domain;
+
+public class Program
 {
     public static void Main()
     {
-
+        //  [Tipo] [nomeVariabile] = new [tipo]()
+        Enemy enemy = new Enemy();
     }
 }

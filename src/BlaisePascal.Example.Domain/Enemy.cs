@@ -14,5 +14,7 @@
 
         // attribuyo costante private
         private const int maxHealth = 100;
+        public Enemy() { 
+        }
     }
 }
